@@ -1,0 +1,12 @@
+{
+    "name": "Tether USD Bridged ZED20",
+    "symbol": "USDT.z",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "Mirror token of the original USDT.z on BNB Chain. This token reflects balances via balanceOf from the original contract.",
+    "website": "",
+    "explorer": "https://bscscan.com/token/0x558cE6f4F6106F383c329b63E94799471Fe5cc0B",
+    "status": "active",
+    "id": "usdtz-mirror"
+  }
+  
